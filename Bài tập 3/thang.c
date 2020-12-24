@@ -7,8 +7,8 @@ int main(){
   scanf ("%d",&thang);
   switch(thang) 
   {
-    case1:
-    printf("30 ngay");
+    case 1:
+                printf("30 ngay");
       break;
     case 2: 
 	 	printf ("28 ngay");
